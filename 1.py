@@ -1,7 +1,7 @@
 #5
 a=int(input("fresh loaves"))
 b=int(input("day old leaves"))
-print("Regular prce : Rs.185.00")
+print("Regular price : Rs.185.00")
 fresh_amount = 185*float(a)
 old_amount = (185*0.4)*float(b)
 Total = fresh_amount+old_amount
